@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  ".rcc/qmlcache/applayout_1_Main_qml.cpp"
+  ".rcc/qmlcache/applayout_1_MyComponent_qml.cpp"
+  ".rcc/qmlcache/applayout_1_TextComponent_qml.cpp"
+  ".rcc/qmlcache/applayout_1_qmlcache_loader.cpp"
+  ".rcc/qrc_applayout_1_raw_qml_0.cpp"
+  ".rcc/qrc_qmake_layout_1.cpp"
+  "CMakeFiles/applayout_1_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/applayout_1_autogen.dir/ParseCache.txt"
+  "applayout_1_autogen"
+  "CMakeFiles/applayout_1.dir/applayout_1_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/applayout_1.dir/applayout_1_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/applayout_1_qmltyperegistrations.cpp.o"
+  "CMakeFiles/applayout_1.dir/applayout_1_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_Main_qml.cpp.o"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_Main_qml.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_MyComponent_qml.cpp.o"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_MyComponent_qml.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_TextComponent_qml.cpp.o"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_TextComponent_qml.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_qmlcache_loader.cpp.o"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qmlcache/applayout_1_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qrc_applayout_1_raw_qml_0.cpp.o"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qrc_applayout_1_raw_qml_0.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qrc_qmake_layout_1.cpp.o"
+  "CMakeFiles/applayout_1.dir/build/Desktop-Debug/.rcc/qrc_qmake_layout_1.cpp.o.d"
+  "CMakeFiles/applayout_1.dir/main.cpp.o"
+  "CMakeFiles/applayout_1.dir/main.cpp.o.d"
+  "applayout_1"
+  "applayout_1.pdb"
+  "applayout_1_autogen/mocs_compilation.cpp"
+  "applayout_1_autogen/timestamp"
+  "applayout_1_qmltyperegistrations.cpp"
+  "layout_1/applayout_1.qmltypes"
+  "meta_types/qt6applayout_1_debug_metatypes.json"
+  "meta_types/qt6applayout_1_debug_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/applayout_1.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

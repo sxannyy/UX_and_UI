@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/robot/">
+    <file alias="Main.qml">/home/sxannyy/robot/Main.qml</file>
+    <file alias="RectangleComponent.qml">/home/sxannyy/robot/RectangleComponent.qml</file>
+  </qresource>
+</RCC>
+

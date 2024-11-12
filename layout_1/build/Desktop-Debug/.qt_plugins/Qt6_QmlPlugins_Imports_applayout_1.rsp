@@ -1,0 +1,14 @@
+-rootPath
+/home/sxannyy/layout_1
+-cmake-output
+-output-file
+/home/sxannyy/layout_1/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_applayout_1.cmake
+-importPath
+/home/sxannyy/layout_1/build/Desktop-Debug/layout_1
+-importPath
+/home/sxannyy/layout_1/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/sxannyy/layout_1/build/Desktop-Debug/.rcc/qmake_layout_1.qrc
+/home/sxannyy/layout_1/build/Desktop-Debug/.rcc/applayout_1_raw_qml_0.qrc

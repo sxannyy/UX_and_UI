@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/layout_1/">
+    <file alias="Main.qml">/home/sxannyy/layout_1/Main.qml</file>
+    <file alias="MyComponent.qml">/home/sxannyy/layout_1/MyComponent.qml</file>
+    <file alias="TextComponent.qml">/home/sxannyy/layout_1/TextComponent.qml</file>
+  </qresource>
+</RCC>
+

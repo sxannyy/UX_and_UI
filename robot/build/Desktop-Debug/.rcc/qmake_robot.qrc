@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/robot">
+    <file alias="qmldir">/home/sxannyy/robot/build/Desktop-Debug/robot/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,7 @@
+module layout_1
+typeinfo applayout_1.qmltypes
+prefer :/layout_1/
+Main 1.0 Main.qml
+MyComponent 1.0 MyComponent.qml
+TextComponent 1.0 TextComponent.qml
+

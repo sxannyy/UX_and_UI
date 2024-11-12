@@ -1,6 +1,0 @@
-module robot
-typeinfo approbot.qmltypes
-prefer :/robot/
-Main 1.0 Main.qml
-RectangleComponent 1.0 RectangleComponent.qml
-

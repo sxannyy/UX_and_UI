@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a9d84ed8f7fa582633a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qml_task_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4ff2fd0478b5bb794648.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2e8aa21d11e676c371de.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ec8ecdd3f7c976423dba.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1-Debug-1c888521bc1c45cae701.json",
+					"name" : "appqml_task_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_autogen-Debug-70e8b6205bb670155aae.json",
+					"name" : "appqml_task_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_autogen_timestamp_deps-Debug-d2bfa93b95692d507023.json",
+					"name" : "appqml_task_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_automoc_json_extraction-Debug-b50db58e5c96c30a31d2.json",
+					"name" : "appqml_task_1_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_other_files-Debug-d4e39ee842229540be6c.json",
+					"name" : "appqml_task_1_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_qmlimportscan-Debug-949b5a4be1a2075871c6.json",
+					"name" : "appqml_task_1_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_qmllint-Debug-5018ff4ca9b851d39651.json",
+					"name" : "appqml_task_1_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_qmllint_json-Debug-b55bcf0692a29114af89.json",
+					"name" : "appqml_task_1_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_qmltyperegistration-Debug-eca4d7a06e8301b911c5.json",
+					"name" : "appqml_task_1_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_task_1_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_task_1_tooling-Debug-3c1e6eeedbda0820e024.json",
+					"name" : "appqml_task_1_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sxannyy/UX_and_UI/qml_task_1/build/Desktop-Debug",
+		"source" : "/home/sxannyy/UX_and_UI/qml_task_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

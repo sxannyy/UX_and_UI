@@ -1,0 +1,14 @@
+-rootPath
+/home/sxannyy/UX_and_UI/qml_task_1
+-cmake-output
+-output-file
+/home/sxannyy/UX_and_UI/qml_task_1/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appqml_task_1.cmake
+-importPath
+/home/sxannyy/UX_and_UI/qml_task_1/build/Desktop-Debug/qml_task_1
+-importPath
+/home/sxannyy/UX_and_UI/qml_task_1/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/sxannyy/UX_and_UI/qml_task_1/build/Desktop-Debug/.rcc/qmake_qml_task_1.qrc
+/home/sxannyy/UX_and_UI/qml_task_1/build/Desktop-Debug/.rcc/appqml_task_1_raw_qml_0.qrc

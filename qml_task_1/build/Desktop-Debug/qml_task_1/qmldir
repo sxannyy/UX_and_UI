@@ -1,0 +1,6 @@
+module qml_task_1
+typeinfo appqml_task_1.qmltypes
+prefer :/qml_task_1/
+Main 1.0 Main.qml
+MyComponent 1.0 MyComponent.qml
+
